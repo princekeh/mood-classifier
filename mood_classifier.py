@@ -1,6 +1,6 @@
 # mood_classifier.py
 # Tiny mood classifier using keyword matching.
-# Made by a beginner — imperfect but honest.
+
 
 POSITIVE = ["happy", "joy", "love", "great", "nice", "good", "amazing"]
 NEGATIVE = ["sad", "angry", "hate", "bad", "terrible", "upset", "miserable"]
